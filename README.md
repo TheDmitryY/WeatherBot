@@ -36,6 +36,11 @@ Enter to directory
 
 ``` cd WeatherBot/src ```
 
+Install all packages
+
+``` pip install -r requirements.txt ```
+
+
 Run main file
 
 ``` python main.py ```
